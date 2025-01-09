@@ -19,7 +19,7 @@ Then you need to download the Llama-3.2-1B-Instruct model, you can simply done t
 python model/download_llama.py
 ```
 
-The trained peft weight and the dataset is contained in this repo, therefore you don't need to download them from other source.
+The dataset is contained in this repo, therefore you don't need to download it from other resource.
 
 To run training and inference, you can simply run the bash scripts. Please make sure the path of model and data correct before running.
 ```
